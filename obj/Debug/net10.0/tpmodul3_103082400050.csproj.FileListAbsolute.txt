@@ -1,0 +1,15 @@
+D:\Kuliah\KPL\Praktikum\tpmodul3_103082400050\bin\Debug\net10.0\tpmodul3_103082400050.exe
+D:\Kuliah\KPL\Praktikum\tpmodul3_103082400050\bin\Debug\net10.0\tpmodul3_103082400050.deps.json
+D:\Kuliah\KPL\Praktikum\tpmodul3_103082400050\bin\Debug\net10.0\tpmodul3_103082400050.runtimeconfig.json
+D:\Kuliah\KPL\Praktikum\tpmodul3_103082400050\bin\Debug\net10.0\tpmodul3_103082400050.dll
+D:\Kuliah\KPL\Praktikum\tpmodul3_103082400050\bin\Debug\net10.0\tpmodul3_103082400050.pdb
+D:\Kuliah\KPL\Praktikum\tpmodul3_103082400050\obj\Debug\net10.0\tpmodul3_103082400050.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\KPL\Praktikum\tpmodul3_103082400050\obj\Debug\net10.0\tpmodul3_103082400050.AssemblyInfoInputs.cache
+D:\Kuliah\KPL\Praktikum\tpmodul3_103082400050\obj\Debug\net10.0\tpmodul3_103082400050.AssemblyInfo.cs
+D:\Kuliah\KPL\Praktikum\tpmodul3_103082400050\obj\Debug\net10.0\tpmodul3_103082400050.csproj.CoreCompileInputs.cache
+D:\Kuliah\KPL\Praktikum\tpmodul3_103082400050\obj\Debug\net10.0\tpmodul3_103082400050.sourcelink.json
+D:\Kuliah\KPL\Praktikum\tpmodul3_103082400050\obj\Debug\net10.0\tpmodul3_103082400050.dll
+D:\Kuliah\KPL\Praktikum\tpmodul3_103082400050\obj\Debug\net10.0\refint\tpmodul3_103082400050.dll
+D:\Kuliah\KPL\Praktikum\tpmodul3_103082400050\obj\Debug\net10.0\tpmodul3_103082400050.pdb
+D:\Kuliah\KPL\Praktikum\tpmodul3_103082400050\obj\Debug\net10.0\tpmodul3_103082400050.genruntimeconfig.cache
+D:\Kuliah\KPL\Praktikum\tpmodul3_103082400050\obj\Debug\net10.0\ref\tpmodul3_103082400050.dll
